@@ -8,10 +8,11 @@ RS_FaceData_Record_WithOpenCV is a recorder of face information with Intel RealS
 The face information contains Pose, Landmarks, Expressions, and Movie(.avi).
 This project contains OpenCV2.4.9(http://opencv.jp/)
 
+Please set "Release" mode and "x64" architecture when you run this project.
 
 ## Demo
 * /FaceTracking/csvfiles/***.csv
-* /FaceTracking/moviefiles/***.csv
+* /FaceTracking/moviefiles/***.avi
 
 ## Requirement
 * Visual Studio Community 2015 (C++)
